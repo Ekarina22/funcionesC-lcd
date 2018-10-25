@@ -2,7 +2,9 @@
 INSTITUTO TECNOLOGICO DE LEON
 SISTEMAS PROGRAMABLES
 ING. LEVY ROJAS CARLOS RAFAEL
-ALUMNA: RANGEL LOZANO EVA KARINA ELIZABETH
+ALUMNOS: 
+RANGEL LOZANO EVA KARINA ELIZABETH
+RAMIREZ DIAZ JOSE ENRIQUE
 25-10-2018
 ----------------------------------------------------
 PRACTICA LCD CON VARIAS FUNCIONES
@@ -37,6 +39,4 @@ Para poder ejecutar el código se debe contar con el software Arduino, que fue u
 La interfaz fue elaborada en el lenguaje Java.
 El diagrama incluido fue elaborado en el software de diseño de circuitos Fritzing.
 Otro requisito es contar con el circuito propiamente armado para que dicho programa pueda funcionar correctamente.
-NOTA:
-EN NUESTRA PRACTICA PRESENTA PROBLEMAS PARA LA IMPRESION DE IMAGEN YA QUE APARECEN RAROS SIMBOLOS HCIMOS PRUEBAS
-CON OTRAS PANTALLAS Y ENCONTRAMOS EL ERROR EN LA PANTALLA LCD LA CUAL ESTA DEFECTUOSA
+
